@@ -51,7 +51,7 @@ The analysis does not establish that biologics are universally safer than cortic
 
 Research Output:
 
-[Read the White Paper](CVD_risk_white_paper.pdf)
+[Read the White Paper](https://github.com/sinchujoshi24-ship-it/cardiovascular-risk-medications-kings-college/blob/main/CVD_risk_white_paper.pdf)
 
 Future Directions:
 
