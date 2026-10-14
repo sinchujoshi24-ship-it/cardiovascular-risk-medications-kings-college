@@ -49,10 +49,6 @@ This study uses retrospective observational data and examines associations rathe
 
 The analysis does not establish that biologics are universally safer than corticosteroids or that changing treatment will reduce cardiovascular risk.
 
-Research Output:
+Research Outputs:
 
 [Read the White Paper](https://github.com/sinchujoshi24-ship-it/cardiovascular-risk-medications-kings-college/blob/main/CVD_risk_white_paper.pdf)
-
-Future Directions:
-
-Future research could use larger cohorts, account for treatment duration and disease severity, and investigate longitudinal cardiovascular outcomes. Further work could also examine how clinical education and risk-monitoring practices affect awareness of corticosteroid-associated complications.
